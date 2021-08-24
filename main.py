@@ -3,7 +3,7 @@
 # Function to demonstrate printing pattern
 def pypart(n):
     # outer loop to handle number of rows
-    # n in this case
+    # n in this cas
     for i in range(0, n):
 
         # inner loop to handle number of columns
